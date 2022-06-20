@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/n-furkan-acikgoz?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSdDoM1NjR2eL6s18ZRFqZA%3D%3D">
+    <a href="https://www.linkedin.com/in/n-furkan-acikgoz/"> </a>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
   
@@ -22,12 +22,12 @@
 
 ---
 
-### :technologist: About Me :
-  I'm a gradute Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Akdeniz University in Antalya/Turkey.
+### :man_technologist: About Me :
+  I'm a gradute Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Akdeniz University in Antalya/Turkey.
   
 - 👨🏻‍💻 I’m currently learning Swift for iOS application development
 - 🔭 I’m currently working on Arçelik iOS Swift Bootcamp by Patika
-- 💬 Ask me about iOS development 🙃
+- 💬 Ask me about iOS development
 - 📫 How to reach me: furkanackgz99@gmail.com
 - 🚴🏼 Fun fact: I'm in love with my bike 😍
 

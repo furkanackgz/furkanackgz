@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 🙋🏻‍♂️ it's Furkan! 🙂
+
+## I'm a gradute Computer Engineer from Akdeniz University in Antalya/Turkey
+
+- 👨🏻‍💻 I’m currently learning Swift for iOS application development
+- 🔭 I’m currently working on Arçelik iOS Swift Bootcamp by Patika.dev
+- 💬 Ask me about iOS development 🙃
+- 📫 How to reach me: furkanackgz99@gmail.com
+- 🚴🏼 Fun fact: I'm in love with my bike 😍
 
 <!--
 **furkanackgz/furkanackgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+v
 -->

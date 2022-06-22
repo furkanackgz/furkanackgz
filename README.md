@@ -49,7 +49,7 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanackgz&layout=compact&theme=radical" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanackgz&layout=compact&theme=radical&hide=Jupyter Notebook" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanackgz&show_icons=true&theme=radical" />

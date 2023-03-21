@@ -11,10 +11,10 @@
 </h1>
 
 ### :man_technologist: About Me :
-  I'm a gradute Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> from Akdeniz University in Antalya/Turkey.
+  I'm a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> graduated from Akdeniz University. Currently working at Arcelik Global in Ankara.
   
 - 👨🏻‍💻 I’m currently learning Swift for iOS application development
-- 🔭 I’m currently working on Arçelik iOS Swift Bootcamp by Patika
+- 🔭 I’m currently working at Arçelik Global
 - 💬 Ask me about iOS development
 - 📫 How to reach me: furkanackgz99@gmail.com
 - 🚴🏼 Fun fact: I'm in love with my bike 😍

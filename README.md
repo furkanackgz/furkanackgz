@@ -16,7 +16,7 @@
 - 👨🏻‍💻 I’m currently learning SwiftUI for iOS application development
 - 🔭 I’m currently working at Arçelik Global
 - 💬 Ask me about iOS development
-- 📫 How to reach me: furkanackgz99@gmail.com
+- 📫 How to reach me: n.furkan.acikgoz@gmail.com
 - 🚴🏼 Fun fact: I'm in love with my bike 😍
 ---
 

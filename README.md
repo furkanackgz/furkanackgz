@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nadi-furkan-acikgoz/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Nadi Furkan Açıkgöz" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nadi-furkan-acikgoz/" target="blank" rel=”noopener”><img align="leading" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nadi Furkan Açıkgöz" height="30" width="100" /></a>
 </p>
 
 

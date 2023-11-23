@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/n-furkan-acikgoz" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="furkanackgz" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nadi-furkan-acikgoz/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="nadi-furkan-acikgoz" height="30" width="30" /></a>
 </p>
 
 

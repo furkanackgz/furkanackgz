@@ -14,7 +14,7 @@
   I'm a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> graduated from Akdeniz University. Currently working at Arcelik Global in Ankara.
   
 - 👨🏻‍💻 I’m currently learning SwiftUI for iOS application development
-- 🔭 I’m currently working at Arçelik Global
+- 🔭 I’m currently working at Beko Corporate
 - 💬 Ask me about iOS development
 - 📫 How to reach me: n.furkan.acikgoz@gmail.com
 - 🚴🏼 Fun fact: I'm in love with my bike 😍

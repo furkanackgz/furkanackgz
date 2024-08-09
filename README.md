@@ -11,7 +11,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-  I'm a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> graduated from Akdeniz University. Currently working at Arcelik Global in Ankara.
+  I'm a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> graduated from Akdeniz University. Currently working at Beko Corporate in Ankara.
   
 - 👨🏻‍💻 I’m currently learning SwiftUI for iOS application development
 - 🔭 I’m currently working at Beko Corporate
